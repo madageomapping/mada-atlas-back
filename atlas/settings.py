@@ -98,8 +98,8 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'django',  # Name of your spatial database
         'USER': 'django',   # Database user 
-        'PASSWORD': 'Cart0M@d@',# Database password 
-        'HOST': '195.154.35.191',
+        'PASSWORD': 'xxxxxxx',# Database password 
+        'HOST': 'xxxxxxxx',
         'PORT': '5432',                      
    }
 }
